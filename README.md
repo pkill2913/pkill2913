@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @pkill2913
-- 👀 I’m interested in DevOps path
+- 👀 I’m DevOps Engineer
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on Python Open Source Projects
 - 📫 How to reach me oeco.castillo@gmail.com
